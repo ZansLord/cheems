@@ -31,7 +31,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '795eea27c6',
 }
 
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6283110802523'] //ur owner number
-global.ownername = "🥶AGR" //ur owner name
-global.ytname = "YT: Surya Azhura" //ur yt chanel name
-global.socialm = "GitHub: Privasi" //ur github or insta name
+global.vcardowner = ['6285869074622'] //ur owner number
+global.ownername = "ZansLrd" //ur owner name
+global.ytname = "YT: ZansLord" //ur yt chanel name
+global.socialm = "GitHub: ZansLord" //ur github or insta name
 global.location = "Privasi" //ur location
 
 //bot bomdy 
-global.owner = ['6283110802523']
-global.ownertag = '6283110802523' //ur tag number
-global.botname = 'AGR Botz MD' //ur bot name
-global.linkz = "https://youtube.com/channel/UCXjNhkMF_Mt5utxW_Fit6rw" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCXjNhkMF_Mt5utxW_Fit6rw" //ur website to be displayed
+global.owner = ['6285869074622']
+global.ownertag = '6285869074622' //ur tag number
+global.botname = 'MiyaziFubuki' //ur bot name
+global.linkz = "https://youtu.be/SF-_47-oCtk" //your theme url which will be displayed on whatsapp
+global.websitex = "https://zanslord-api.herokuapp.com/" //ur website to be displayed
 global.botscript = 'Privasi' //script link
 global.reactmoji = "☝️" //ur menu react emoji
 global.themeemoji = "🐦" //ur theme emoji
-global.packname = "AGR Botz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🗿🗿️🗿 " //ur sticker watermark packname
-global.author = "🥶AGR" //ur sticker watermark author
+global.packname = "Fubuki\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🗿🗿️🗿 " //ur sticker watermark packname
+global.author = "Miyazi😾" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6285848300025'] //ur premium numbers
+global.premium = ['6285869074622'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
